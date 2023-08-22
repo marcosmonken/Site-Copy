@@ -224,8 +224,7 @@ div.meioameio p{
     line-height: 10mm;
     left: 660px;
     top: 710px;
-    color:rgba(44, 44, 44, 0.695);
-    
+    color:rgba(44, 44, 44, 0.695);  
 }
 .partepreta2{
     position: absolute;
@@ -297,7 +296,6 @@ div.meioameio p{
     padding-left: 40px;
 
 }
-
 .part1 p{
     position: relative;
     font-size: 15px;
