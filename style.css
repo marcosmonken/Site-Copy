@@ -46,6 +46,23 @@ div.home {
    background-repeat: no-repeat;
    
 }
+div button{
+    color: white;
+    width: 143px;
+    height: 40px;
+    background-color: rgb(4, 164, 41);
+    position: absolute;
+    top: 370px;
+    right: 810px;
+    text-align: center;
+    font-size: 15px;
+    border: none;
+}
+button:hover{
+    background-color: black;
+    border: solid 1px;
+     
+}
 .logo{
     height: 52px;
     position: absolute;
@@ -249,7 +266,7 @@ div.meioameio p{
 .part1{
     height: 60vh;
     width: 100%;
-    background-color: green;
+    background-color:rgb(4, 164, 41);
 }
 .part1 img{
     position: absolute;
