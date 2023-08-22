@@ -12,7 +12,7 @@ body {
 }
 h1 {
     font-size: 45px;
-    color: rgb(242, 238, 238);
+    color: white;
     position: absolute;
     top: 235px;
     right: 781px;
@@ -20,7 +20,7 @@ h1 {
     border-width: 10cm;
 }
 .menu{
-    color: rgb(241, 244, 241);
+    color: white;
     list-style:none;
     background:rgba(0, 0, 0, 0.365);
     padding: 30px;
